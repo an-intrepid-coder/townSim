@@ -8,3 +8,8 @@ export function randInRange(start, end) {
     return Math.floor(Math.random() * (end - start)) + start;
 }
 
+// Evenly returns true/false:
+export function coinFlip() {
+    return Math.floor(Math.random() * 10) % 2 == 0;
+}
+

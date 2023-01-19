@@ -56,7 +56,6 @@ function updateDisplay(showGrid = false) {
     if (showGrid) {
         paintGridLines();
     }
-    // TODO
 }
 
 /* Basic idea is that every animation frame it will update the display and check for whether to progress the game state,
