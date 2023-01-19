@@ -11,12 +11,11 @@ class Cell {
     }
 }
 
-let interfaceModes = ["main", "overmap"];
+let interfaceModes = ["main"];
 
 export class GameState {
     constructor() { 
-        this.interfaceMode = "main"; ///testing
-        //this.interfaceMode = "overmap"; ///testing
+        this.interfaceMode = "main"; 
         this.mapCellsHigh = 100;
         this.mapCellsWide = 100;
         this.cells = [];

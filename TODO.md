@@ -1,10 +1,9 @@
 # TODO list (in no particular order):
 
-* some kind of overmap display option
 * Interface (hideable)
 * real time interaction
 
-* pick a theme/setting/etc.
+* pick a theme/setting/etc (modern-ish, probably)
 * placeable structures
 * simulated economy
 
